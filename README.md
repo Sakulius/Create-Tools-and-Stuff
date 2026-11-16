@@ -20,6 +20,6 @@ A Mechanical Press inside your backpack. Requires Sophisticated Backpacks.
 ## Requirements
 
 - [Create](https://modrinth.com/mod/create) — required
-- [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) — optional
+- [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) — required
 
 <p align="center"><i>More coming soon.</i></p>
