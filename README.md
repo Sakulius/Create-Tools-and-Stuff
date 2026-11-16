@@ -12,7 +12,7 @@
 Charges from the top shaft. With a redstone signal, it outputs 32 RPM from the bottom shaft. Includes a Ponder scene.
 
 **⛏️ Multi-Tool**
-Pickaxe, axe, shovel and wrench in one. Hold `Tab` to switch modes.
+Pickaxe, axe, shovel and wrench in one. Hold `Tab` to switch modes. The active tool is shown on the item.
 
 **🎒 Pressing Upgrade**
 A Mechanical Press inside your backpack. Requires Sophisticated Backpacks.
